@@ -10,7 +10,7 @@ I'm a games development student and Responsible colleague at Argos, I have a uni
 I have several key skills that help both my online carer and my day-job 
 
 - Game/Software development
-- Linux
+- Linux/Terminals - zsh, powerterm, etc
 
 ## Projects
 
