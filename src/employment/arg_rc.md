@@ -3,7 +3,7 @@ company: Sainsbury's Argos
 role: Responsible colleague
 start: July 2026
 end: Present
-logo: /assets/images/argos.png
+logo: css/assets/argos.png
 description: A fancy name for supivisor
 tags:
   - employment

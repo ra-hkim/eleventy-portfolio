@@ -3,7 +3,7 @@ company: Sainsbury's Argos
 role: Sales Assistant
 start: June 2026
 end: July 2026
-logo: /assets/images/argos.png
+logo: css/assets/argos.png
 description: A mix of Customer-facing and warehouse tasks
 tags:
   - employment
