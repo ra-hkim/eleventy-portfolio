@@ -2,7 +2,7 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy("src/assets");
 
   return {
-      pathPrefix: "/eleventy-portolio",
+      pathPrefix: "/eleventy-portolio/",
         dir: {
             input: "src",
             includes: "_includes",
