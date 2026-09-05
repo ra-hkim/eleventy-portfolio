@@ -2,7 +2,6 @@
 layout: base.njk
 title: Home
 ---
-
 # Whats up, I'm Rahkim 
 
 I'm a games development student and Responsible colleague at Argos, I have a unique skill set that allows me to work on my feet as well as working on computers with modern technology.
