@@ -8,7 +8,7 @@ I'm a games development student and Responsible colleague at Argos, I have a uni
 
 I have several key skills that help both my online carer and my day-job 
 
-- Game/Software development
+- Game/Software development - ue5 
 - Linux/Terminals - zsh, powerterm, etc
 
 ## Projects
@@ -18,6 +18,7 @@ I have worked on many projects both inside and outside of college they involve, 
     <button onclick="window.location.href='projects'">Go to projects</button>
 </div>
 
----
+<hr class="hr-text" data-content="@ra_hkim">
+
 
 {% include "employment.njk" %}
