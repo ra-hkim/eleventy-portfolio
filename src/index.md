@@ -8,9 +8,18 @@ I'm a games development student and Responsible colleague at Argos, I have a uni
 
 I have several key skills that help both my online carer and my day-job 
 
-- Game/Software development
-- Linux/Terminals - zsh, Sainsbury's powerterm, etc
-- 
+- **Game Development** – Unreal Engine 5, gameplay programming & prototyping
+- **Programming** – Python, JavaScript, HTML, CSS, & more
+- **3D Development** – Blender
+- **Web Development** – Eleventy (11ty) & Markdown 
+- **Linux & Systems** – Arch / Red Hat Linux, Zsh, system configuration & troubleshooting
+- **Version Control & Deployment** – Git, GitHub & GitHub Actions
+- **Technical Problem Solving** – hardware, software, networking & system troubleshooting
+- **Proprietary Software** – Sainsbury’s PowerTerm, undocumented internal systems & workflow troubleshooting
+- **Supervision & Teamwork** – coordinating tasks, supporting colleagues & training staff
+- **Administration & Finance** – cash handling, reconciliation, paperwork & record keeping
+- **Stock Management** – inventory control, stock processing & resolving discrepancies
+- **Independent Learning** – quickly learning new technologies, software and workflows
 
 <hr class="hr-text" data-content="@ra_hkim">
 

@@ -4,6 +4,10 @@
     margin: 4rem auto;
 }
 
+.timeline li {
+    line-height: 1 !important;
+}
+
 .timeline::before {
     content: "";
     position: absolute;
