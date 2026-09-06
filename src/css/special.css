@@ -32,7 +32,7 @@ a.hypr:hover {
 
 .hr-text::before {
   content: '';
-  background: linear-gradient(to right, transparent, #eee, transparent);
+  background: linear-gradient(to right, transparent, #eee, #eee, #eee, transparent);
   position: absolute;
   left: 0;
   top: 40%;
@@ -47,4 +47,9 @@ a.hypr:hover {
   color: #eee;
   padding: 0 1em;
   background-color: #111;
+}
+
+img:hover {
+    border: 1px solid #eee;
+    transition-duration: 0.4s;
 }

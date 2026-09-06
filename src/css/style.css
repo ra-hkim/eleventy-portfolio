@@ -18,9 +18,15 @@ header {
 }
 
 @keyframes header-animation {
-  0%   {border-bottom: 1px solid #6b6b6b};
-  50%  {border-bottom: 1px solid #eee;}
-  100% {border-bottom: 1px solid #6b6b6b;}
+    0% {
+        border-bottom: 1px solid #6b6b6b;
+    }
+    50% {
+        border-bottom: 1px solid #eee;
+    }
+    100% {
+        border-bottom: 1px solid #6b6b6b;
+    }
 }
 
 nav {
@@ -55,4 +61,11 @@ footer {
     margin: auto;
     padding: 2rem 1.5rem;
     border-top: 1px solid #6b6b6b;
+}
+
+img.image {
+    border: 1px solid #333;
+    border-radius: 19px;
+    max-width: 950px;
+    padding: 1%;
 }

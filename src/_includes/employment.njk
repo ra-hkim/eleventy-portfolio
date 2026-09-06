@@ -16,10 +16,10 @@
                         {{ job.data.start }} — {{ job.data.end }}
                     </span>
                 </div>
-                <p>
+                <p class=left >
                     {{ job.data.description }}
                 </p>
-                <ul>
+                <ul class=left >
                     {% for highlight in job.data.highlights %}
                         <li>{{ highlight }}</li>
                     {% endfor %}
