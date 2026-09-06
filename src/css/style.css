@@ -36,6 +36,8 @@ nav a {
     color: inherit;
     text-decoration: none;
     margin-left: 1.5rem;
+    font-size: 17px;
+    font-weight: 600;
 }
 
 main {
@@ -46,35 +48,6 @@ main {
 
 a {
     color: #7dd3fc;
-}
-
-.hr-text {
-  line-height: 1em;
-  position: relative;
-  outline: 0;
-  border: 0;
-  text-align: center;
-  height: 1.5em;
-  opacity: 0.5;
-}
-
-.hr-text::before {
-  content: '';
-  background: linear-gradient(to right, transparent, #eee, transparent);
-  position: absolute;
-  left: 0;
-  top: 40%;
-  width: 100%;
-  height: 1px;
-}
-
-.hr-text::after {
-  content: attr(data-content);
-  position: relative;
-  display: inline-block;
-  color: #eee;
-  padding: 0 1em;
-  background-color: #111;
 }
 
 footer {
