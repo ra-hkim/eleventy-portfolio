@@ -49,7 +49,7 @@ a.hypr:hover {
   background-color: #111;
 }
 
-img:hover {
+img.image:hover {
     border: 1px solid #eee;
     transition-duration: 0.4s;
 }
